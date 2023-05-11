@@ -1,6 +1,6 @@
 <h1>Hi, I'm Habeeb!</h1>
 
-I'm an IT graduate aspiring to be a Cybersecurity professional, my goal is to contribute to the protection of sensitive information and critical infrastructures 
+I'm an IT graduate aspiring to be a Cybersecurity professional. My goal is to contribute to the protection of sensitive information and critical infrastructures 
 against cyber threats. I am particularly interested in roles such as Security Analyst, Security Administrator, System Administrator, and Jr. Penetration 
 Tester.
 
