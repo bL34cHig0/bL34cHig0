@@ -14,8 +14,6 @@ a meaningful impact in the field of cybersecurity.
   - [Python 3 Pentesting Tools](https://github.com/bL34cHig0/Python3-Pentesting-tools)
   - [Telstra Cybersecurity Virtual Experience Program](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-/tree/main)
 
-- <b>Lab</b>
-
 
 <h2>CTF Write-Ups (HTB)</h2>
 
