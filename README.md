@@ -15,7 +15,7 @@ a meaningful impact in the field of cybersecurity.
   - [Telstra Cybersecurity Virtual Experience Program](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-/tree/main)
 
 
-<h2>CTF Write-Ups (HTB)</h2>
+<h2> 📝 CTF Write-Ups (HTB)</h2>
 
 - [Jerry](https://medium.com/@bl34chchig0/jerry-hackthebox-write-up-275c9f6144d7)
 - [Tactics](https://medium.com/@bl34chchig0/tactics-hackthebox-starting-point-6ef40cda264a)
