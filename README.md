@@ -10,7 +10,7 @@ a meaningful impact in the field of cybersecurity. At the same time, I publish i
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Python 3 Pentesting Tools](https://github.com/bL34cHig0/Python3-Pentesting-tools)
+  - [Pentest Resources](https://github.com/bL34cHig0/Pentest-Resources-Cheat-Sheets)
   - [Python 3 Pentesting Tools](https://github.com/bL34cHig0/Python3-Pentesting-tools)
   - [Telstra Cybersecurity Virtual Experience Program](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-/tree/main)
 
