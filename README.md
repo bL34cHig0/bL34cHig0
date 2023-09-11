@@ -10,20 +10,15 @@ a meaningful impact in the field of cybersecurity. At the same time, I publish i
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Python</b>
+  - [Python 3 Pentesting Tools](https://github.com/bL34cHig0/Python3-Pentesting-tools)
   - [Python 3 Pentesting Tools](https://github.com/bL34cHig0/Python3-Pentesting-tools)
   - [Telstra Cybersecurity Virtual Experience Program](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-/tree/main)
 
 
-<h2> 📝 Medium Blog</h2>
+<h2> 📝 Cybersecurity Blog</h2>
 
-- [Active Directory Lab Part 1](https://medium.com/@bl34chchig0/mastering-active-directory-a-step-by-step-guide-to-building-your-ultimate-lab-environment-part-1-9e99e85da384)
-- [Active Directory Lab Part 2](https://medium.com/@bl34chchig0/mastering-active-directory-a-step-by-step-guide-to-building-your-ultimate-lab-environment-part-2-50b6a36f61e6)
-- [Cybersecurity Free Resources](https://medium.com/@bl34chchig0/hack-your-way-into-cybersecurity-mastering-the-basics-with-free-resources-courses-46adc787f063)
-- [Benefits of Having an Active Directory Lab](https://medium.com/@bl34chchig0/supercharge-your-cybersecurity-journey-with-an-active-directory-lab-a546a45af692)
-- [Jerry - HTB](https://medium.com/@bl34chchig0/jerry-hackthebox-write-up-275c9f6144d7)
-- [Tactics - HTB](https://medium.com/@bl34chchig0/tactics-hackthebox-starting-point-6ef40cda264a)
-  
+- [Medium](https://medium.com/@bl34chchig0/)
+
 
 <h2> 🤳 Connect with me:</h2>
 
