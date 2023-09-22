@@ -1,4 +1,5 @@
-<h1>Hi, I'm Habeeb!</h1>
+<h1>Hi👋, I'm Habeeb!</h1>
+<img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">
 
 I'm an IT graduate aspiring to be a Cybersecurity professional. My goal is to contribute to the protection of sensitive information and critical infrastructures 
 against cyber threats. I am particularly interested in roles such as Security Analyst, IT Support Specialist, System Administrator, and Jr. Penetration 
@@ -20,10 +21,8 @@ a meaningful impact in the field of cybersecurity. At the same time, I publish i
 - [Medium](https://medium.com/@bl34chchig0/)
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="HabeebKareem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/ha-bib/
-
-<!--
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/itskhabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itskhabib" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ha-bib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ha-bib" height="30" width="40" /></a>
+</p>
