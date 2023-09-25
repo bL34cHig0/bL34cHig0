@@ -8,7 +8,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) 
@@ -20,7 +19,7 @@
 - 💼 I'm volunteering as a technical writer for [CYSED](https://cysed.org/)
 - 🌱 I’m currently learning Databases (SQLite)
 - 👯 I’m looking to collaborate with other cybersecurity enthusiasts
-- I'm ISC² [Certified in Cybersecurity](https://www.linkedin.com/feed/update/urn:li:activity:7105641414847270913/)
+- ✔️ I'm ISC² [Certified in Cybersecurity](https://www.linkedin.com/feed/update/urn:li:activity:7105641414847270913/)
 - 🥅 Looking for Entry-level roles in Cybersecurity or IT
 - ⚡ Fun fact: I'm an avid Fifa & Call of Duty gamer 🤣
 
