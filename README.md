@@ -1,5 +1,5 @@
 # Hi👋, I'm Habeeb!
-<img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">
+<img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">
 
 
 ## Tech Skills
