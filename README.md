@@ -2,7 +2,6 @@
 <img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">
 
 
-
 ## I'm an IT graduate & aspiring Pentester!!
 
 - 🔭 I'm currently working on a notification service for [Fehris](https://fehris.com/)!
@@ -47,3 +46,7 @@
 <a href="https://twitter.com/itskhabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itskhabib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ha-bib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ha-bib" height="30" width="40" /></a>
 </p>
+
+## GitHub Stats
+
+![Habeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=bL34cHig0&show_icons=true&theme=radical)
