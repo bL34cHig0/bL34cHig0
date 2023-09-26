@@ -19,7 +19,7 @@
   - [Python 3 Pentesting Tools](https://github.com/bL34cHig0/Python3-Pentesting-tools)
   - [Telstra Cybersecurity Virtual Experience Program](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-/tree/main)
 
-## Tech Skills
+## Technical Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
