@@ -40,13 +40,12 @@
 
 ➡️ [more blog posts...](https://medium.com/@bl34chchig0/)
 
+## GitHub Stats
+
+![Habeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=bL34cHig0&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itskhabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itskhabib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ha-bib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ha-bib" height="30" width="40" /></a>
 </p>
-
-## GitHub Stats
-
-![Habeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=bL34cHig0&show_icons=true&theme=radical)
