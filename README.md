@@ -1,4 +1,4 @@
-# Hi👋, I'm Habeeb!
+# Hi👋🏽, I'm Habeeb!
 <img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">
 
 
@@ -12,7 +12,7 @@
 - 🥅 Looking for Entry-level roles in Cybersecurity or IT
 - ⚡ Fun fact: I'm an avid Fifa & Call of Duty gamer 🤣
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🧑🏾‍💻 Cybersecurity Projects:</h2>
 
   - [Pentest Resources](https://github.com/bL34cHig0/Pentest-Resources-Cheat-Sheets)
   - [Python 3 Pentesting Tools](https://github.com/bL34cHig0/Python3-Pentesting-tools)
