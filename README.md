@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on a notification service for [Fehris](https://fehris.com/)!
 - 💼 I'm volunteering as a technical writer for [CYSED](https://cysed.org/)
-- 👯 I’m looking to collaborate on open-source projects (Documentation)
+- 👯 I’m looking to collaborate on open-source projects
 - ✔️ I'm ISC² [Certified in Cybersecurity](https://www.linkedin.com/feed/update/urn:li:activity:7105641414847270913/)
 - 🥅 Looking for Entry-level roles in Cybersecurity or IT
 - ⚡ Fun fact: I'm an avid Fifa & Call of Duty gamer 🤣
