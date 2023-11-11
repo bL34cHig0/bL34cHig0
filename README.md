@@ -29,6 +29,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Steganography: Hiding Messages in Plain Sight](https://medium.com/@bl34chchig0/steganography-hiding-messages-in-plain-sight-d237ac8097b3#810c)
 - [Social Engineering #2: Recognizing and Defending against common Phishing attacks](https://cysed.org/ncsam23-social-engineering-2/)
 - [Social Engineering #1: The Sneaky Tactics Targeting Everyday People](https://cysed.org/ncsam23-social-engineering-1/)
 - [OSI Model](https://medium.com/@bl34chchig0/osi-model-understanding-isos-conceptual-framework-for-networking-b8c11d3676a6)
