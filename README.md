@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently building a notification service with [Aly Hassan](https://github.com/alymohamedhassan) for [Fehris](https://fehris.com/)!
 - 🥅 Looking for Entry-level roles in Cybersecurity or IT
-- ✔️ I'm ISC² [Certified in Cybersecurity](https://www.credly.com/badges/69bd2d67-e575-45e2-90c8-ad1d832c98b7/public_url)
+- ✔️ I'm ISC2 [Certified in Cybersecurity](https://www.credly.com/badges/69bd2d67-e575-45e2-90c8-ad1d832c98b7/public_url)
 - 👯 I’m looking to collaborate on open-source projects
 - ⚡ Fun fact: I'm an avid FiFa & Call of Duty gamer 🤣
 
