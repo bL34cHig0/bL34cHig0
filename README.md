@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">
 
 
-## I'm a Penetration Tester intern @CyberPlural!
+## A Penetration Tester intern @CyberPlural!
 
 - 🔭 I'm currently building a notification service with [Aly Hassan](https://github.com/alymohamedhassan) for [Fehris](https://fehris.com/)!
 - 🥅 Looking for Entry-level roles in Cybersecurity or IT
