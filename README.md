@@ -1,15 +1,14 @@
 # Hi👋🏽, I'm Habeeb - a jr. penetration tester
 <img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">
 
-
-- 🔭 I'm currently building a notification service with [Aly Hassan](https://github.com/alymohamedhassan) for [Fehris](https://fehris.com/)!
 - 🥅 Looking for Entry-level roles in Cybersecurity or IT
 - ✔️ I'm ISC2 [Certified in Cybersecurity](https://www.credly.com/badges/69bd2d67-e575-45e2-90c8-ad1d832c98b7/public_url)
 - 👯 I’m looking to collaborate on open-source projects
 - ⚡ Fun fact: I'm an avid FiFa & Call of Duty gamer 🤣
 
-<h2>🧑🏾‍💻 Cybersecurity Projects:</h2>
+<h2>🧑🏾‍💻 Projects:</h2>
 
+  - [Fehris](https://fehris.com/) : built the notification service with [Aly Hassan](https://github.com/alymohamedhassan)
   - [Pentest Resources](https://github.com/bL34cHig0/Pentest-Resources-Cheat-Sheets)
   - [Python 3 Pentesting Tools](https://github.com/bL34cHig0/Python3-Pentesting-tools)
   - [Telstra Cybersecurity Virtual Experience Program](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-/tree/main)
