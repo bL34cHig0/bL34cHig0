@@ -6,6 +6,10 @@
 - 👯 I’m looking to collaborate on open-source projects
 - ⚡ Fun fact: I'm an avid FiFa & Call of Duty gamer 🤣
 
+<h2>🗣️ Presentation</h2> 
+
+- [Unmasking Cyber Threats An Offensive Security Approach for Nigerian Businesses](https://youtu.be/qPk6HST5a-s?si=B0P6iPy8r9DBROxG): Demonstrated and explained how limit overrun race condition can be exploited in web applications in the fintech space in Nigeria.
+
 <h2>🧑🏾‍💻 Projects:</h2>
 
   - [Fehris](https://fehris.com/) : built the notification service with [Aly Hassan](https://github.com/alymohamedhassan)
