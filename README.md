@@ -12,7 +12,6 @@
 
 <h2>🧑🏾‍💻 Projects:</h2>
 
-  - [Fehris](https://fehris.com/) : built the notification service with [Aly Hassan](https://github.com/alymohamedhassan)
   - [Pentest Resources](https://github.com/bL34cHig0/Pentest-Resources-Cheat-Sheets)
   - [Python 3 Pentesting Tools](https://github.com/bL34cHig0/Python3-Pentesting-tools)
   - [Telstra Cybersecurity Virtual Experience Program](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-/tree/main)
