@@ -8,6 +8,7 @@
 
 <h2>🗣️ Presentations</h2> 
 
+- [Through the Hacker's Lens - 2024 Learnings and 2025 Cybersecurity Vision 2025](https://youtu.be/7OEAbuWATRI?si=vGMF5pE3kdn1AnB6): Discussed top vulnerabilities identified in 2024 IT infrastructures, exploitation methods, remediation, and predictions for offensive security trends in 2025.
 - [Unmasking Cyber Threats An Offensive Security Approach for Nigerian Businesses](https://youtu.be/qPk6HST5a-s?si=B0P6iPy8r9DBROxG): Demonstrated and explained how limit overrun race condition can be exploited in web applications in the fintech space in Nigeria.
 
 <h2>🧑🏾‍💻 Projects:</h2>
@@ -29,6 +30,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IoT Meets Cloud: The Perfect Partnership](https://medium.com/p/d18440bb7e11#4660-a0f06b322bc9)
 - [Active Directory Explained: Fine Tuning Controls for Privileged Accounts](https://bl34chig0.github.io/posts/AD-Explained-Fine-Tuning-Control/)
 - [Active Directory Explained: Part 3 – Kerberos Authentication Protocol](https://blog.cyberplural.com/active-directory-explained-part-3-kerberos-authentication-protocol/)
 - [Steganography: Hiding Messages in Plain Sight](https://medium.com/@bl34chchig0/steganography-hiding-messages-in-plain-sight-d237ac8097b3)
