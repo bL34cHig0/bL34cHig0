@@ -30,7 +30,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [IoT Meets Cloud: The Perfect Partnership](https://medium.com/p/d18440bb7e11#4660-a0f06b322bc9)
+- [IoT Meets Cloud: The Perfect Partnership](https://medium.com/@bl34chchig0/iot-meets-cloud-the-perfect-partnership-d18440bb7e11)
 - [Active Directory Explained: Fine Tuning Controls for Privileged Accounts](https://bl34chig0.github.io/posts/AD-Explained-Fine-Tuning-Control/)
 - [Active Directory Explained: Part 3 – Kerberos Authentication Protocol](https://blog.cyberplural.com/active-directory-explained-part-3-kerberos-authentication-protocol/)
 - [Steganography: Hiding Messages in Plain Sight](https://medium.com/@bl34chchig0/steganography-hiding-messages-in-plain-sight-d237ac8097b3)
