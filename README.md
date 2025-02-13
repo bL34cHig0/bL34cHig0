@@ -11,6 +11,10 @@
 - [Through the Hacker's Lens - 2024 Learnings and 2025 Cybersecurity Vision 2025](https://youtu.be/7OEAbuWATRI?si=vGMF5pE3kdn1AnB6): Discussed top vulnerabilities identified in 2024 IT infrastructures, exploitation methods, remediation, and predictions for offensive security trends in 2025.
 - [Unmasking Cyber Threats An Offensive Security Approach for Nigerian Businesses](https://youtu.be/qPk6HST5a-s?si=B0P6iPy8r9DBROxG): Demonstrated and explained how limit overrun race condition can be exploited in web applications in the fintech space in Nigeria.
 
+<h2>📹 Live Streams</h2>
+
+  - [Hack Wednesday Episode 1 Web LLM attacks](https://youtu.be/S70O1k5_J_Y?si=PIF_hrreJmbtVfZG)
+
 <h2>🧑🏾‍💻 Projects:</h2>
 
   - [Pentest Resources](https://github.com/bL34cHig0/Pentest-Resources-Cheat-Sheets)
