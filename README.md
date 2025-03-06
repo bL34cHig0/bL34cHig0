@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">
 
 - 🥅 Looking for web app/network penetration tester roles and/or security engineer roles 
-- ✔️ I hold the [PJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/121637350?key=e218e8959da3aab09ee8669236f94b6d18baaef6e5f80c161849de14ac71373a) and ISC2 [CC](https://www.credly.com/badges/69bd2d67-e575-45e2-90c8-ad1d832c98b7/public_url) certifications
+- ✔️ I hold the [PJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/121637350?key=e218e8959da3aab09ee8669236f94b6d18baaef6e5f80c161849de14ac71373a), [PHDA](https://pdf.credential.net/kzej6wqc_1741257041420.pdf) and ISC2 [CC](https://www.credly.com/badges/69bd2d67-e575-45e2-90c8-ad1d832c98b7/public_url) certifications
 - 👯 I’m looking to collaborate on open-source projects
 - ⚡ Fun fact: I'm an avid FiFa & Call of Duty gamer 🤣
 
