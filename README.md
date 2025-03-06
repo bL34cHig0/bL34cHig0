@@ -14,6 +14,7 @@
 <h2>📹 Live Streams</h2>
 
   - [Hack Wednesday Episode 1 Web LLM attacks](https://youtu.be/S70O1k5_J_Y?si=PIF_hrreJmbtVfZG)
+  - [Hack Wednesday Episode 2 Web LLM attacks](https://www.youtube.com/live/BGmvjwqOmXQ?si=AKItPrxq_pRdr-7E)
 
 <h2>🧑🏾‍💻 Projects:</h2>
 
