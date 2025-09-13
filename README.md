@@ -13,6 +13,7 @@
 
 <h2>📹 Live Streams</h2>
 
+  - [Hack Wednesday | Season 2 Episode 3 | API Testing (PortSwigger Web Security Academy Learning)](https://www.youtube.com/watch?v=E1Mu3TKrL-Y&t=989s)
   - [Hack Wednesday | Season 2 Episode 2 | API Testing (PortSwigger Web Security Academy Learning)](https://www.youtube.com/watch?v=zbGR3EAAtBU)
   - [Hack Wednesday | Season 2 Episode 1 - Part 1 | API Testing (PortSwigger Web Security Academy Learning)](https://www.youtube.com/live/qpcTjp2uAl4?si=UOdVQc6LSlncTSIb)
   - [Hack Wednesday | Season 2 Episode 1 - Part 2 | API Testing (PortSwigger Web Security Academy Learning)](https://www.youtube.com/live/Mg9KXG-o2ZQ?si=78UXEx7lYSGipgO2)
