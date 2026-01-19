@@ -45,6 +45,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proving Impact Without Full Takeover - A Short XXS Story](https://bl34chig0.github.io/posts/Proving-Impact-Without-Full-Takeover-A-Short-XXS-Story/)
 - [Leveraging “AlwaysInstallElevated” for Windows Privilege Escalation](https://blog.cyberplural.com/leveraging-alwaysinstallelevated-for-windows-privilege-escalation/)
 - [Security Groups vs NACLs in AWS: Key Differences Explained](https://medium.com/@bl34chchig0/security-groups-vs-nacls-in-aws-key-differences-explained-d4ac767c0591)
 - [IoT Meets Cloud: The Perfect Partnership](https://medium.com/@bl34chchig0/iot-meets-cloud-the-perfect-partnership-d18440bb7e11)
