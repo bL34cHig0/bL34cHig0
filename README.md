@@ -28,6 +28,7 @@
 
 <h2>🧑🏾‍💻 Projects:</h2>
 
+  - [RKE2-Homelab-Blueprint](https://github.com/bL34cHig0/rke2-homelab-blueprint)
   - [Pentest Resources](https://github.com/bL34cHig0/Pentest-Resources-Cheat-Sheets)
   - [Python 3 Pentesting Tools](https://github.com/bL34cHig0/Python3-Pentesting-tools)
   - [Telstra Cybersecurity Virtual Experience Program](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-/tree/main)
