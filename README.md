@@ -65,7 +65,7 @@
 
 ## GitHub Stats
 
-![Habeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=bL34cHig0&show_icons=true&theme=radical)
+[![Habeeb's GitHub stats](https://github-stats-extended.vercel.app/api?username=bL34cHig0)](https://github.com/stats-organization/github-stats-extended)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
