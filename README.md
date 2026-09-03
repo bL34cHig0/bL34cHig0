@@ -1,4 +1,4 @@
-# Hi👋🏽, I'm Habeeb - An Offensive Security Engineer
+# Hi👋🏽, I'm Habib - An Offensive Security Engineer
 <img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">
 
 - I hold the [ASCP](https://www.credly.com/badges/f052f458-d306-49a9-88fb-459d4e3a0ccd/public_url), [PJPT](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/121637350?key=e218e8959da3aab09ee8669236f94b6d18baaef6e5f80c161849de14ac71373a), [PHDA](https://pdf.credential.net/kzej6wqc_1741257041420.pdf), and ISC2 [CC](https://www.credly.com/badges/69bd2d67-e575-45e2-90c8-ad1d832c98b7/public_url) certifications.
