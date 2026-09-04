@@ -103,4 +103,6 @@ Full archive on [my blog](https://bl34chig0.github.io/) and [Medium](https://med
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/ha-bib) · [X (Twitter)](https://twitter.com/itskhabib) · [Blog](https://bl34chig0.github.io/)
+<a href="https://linkedin.com/in/ha-bib"><img src="assets/contact-linkedin.svg" alt="" width="18" height="18" align="absmiddle"> LinkedIn</a> ·
+<a href="https://twitter.com/itskhabib"><img src="assets/contact-x.svg" alt="" width="18" height="18" align="absmiddle"> X (Twitter)</a> ·
+<a href="https://bl34chig0.github.io/"><img src="assets/contact-blog.svg" alt="" width="18" height="18" align="absmiddle"> Blog</a>
