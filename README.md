@@ -32,10 +32,10 @@ Engineer by day. Researcher by night. Lately I've been more involved in building
 
 ## Hack Wednesday
 
-A live-stream series on [CyberPlural's YouTube channel](https://www.youtube.com/@cyberplural2671). Newest season first.
+A live-stream series on [CyberPlural's YouTube channel](https://www.youtube.com/@cyberplural2671).
 
 <details>
-<summary>Season 2: API testing with the PortSwigger Web Security Academy (8 episodes)</summary>
+<summary>Season 2: API testing with the PortSwigger Web Security Academy </summary>
 
 1. [Season 2, episode 1, part 1](https://www.youtube.com/live/qpcTjp2uAl4)
 2. [Season 2, episode 1, part 2](https://www.youtube.com/live/Mg9KXG-o2ZQ)
